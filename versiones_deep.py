@@ -5,3 +5,6 @@ print('tensorflow: %s' % tensorflow.__version__)
 import keras
 print('keras: %s' % keras.__version__)
 
+# keras
+import matplotlib
+print('matplotlib: %s' % keras.__version__)
