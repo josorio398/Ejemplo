@@ -8,3 +8,8 @@ print('keras: %s' % keras.__version__)
 # keras
 import matplotlib
 print('matplotlib: %s' % keras.__version__)
+
+
+# plotly
+import plotly
+print('plotly: %s' % plotly.__version__)
